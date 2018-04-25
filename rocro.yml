@@ -1,0 +1,4 @@
+docstand:
+  scaladoc:
+    machine:
+      cpu: 2.0
