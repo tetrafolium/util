@@ -1,4 +1,4 @@
 docstand:
   scaladoc:
     machine:
-      cpu: 2.0
+      cpu: 1.0
